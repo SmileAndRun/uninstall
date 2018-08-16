@@ -1,5 +1,5 @@
 public void Test{
-	public void main(String[]args){
+	public void test(String[]args){
 		System.out.println("托尔斯泰");
 
 		System.out.println("哈哈");
